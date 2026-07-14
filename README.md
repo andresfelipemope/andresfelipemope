@@ -21,7 +21,6 @@
 
 ### 🎯 Interests
 - Full Stack Development
-- Artificial Intelligence
 - Competitive Programming
 - Cloud Computing
 - Open Source
@@ -30,9 +29,6 @@
 - Collaborating on Open Source projects.
 - Learning new technologies.
 - Building innovative software.
-
-### ⚡ Fun fact
-When I'm not coding, you'll probably find me solving programming problems on Codeforces or exploring new technologies.
 
 📫 **Reach me at:** andresfelipemope@ufps.edu.co
 
@@ -54,8 +50,6 @@ When I'm not coding, you'll probably find me solving programming problems on Cod
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ## 🗄️ Databases
@@ -79,5 +73,5 @@ When I'm not coding, you'll probably find me solving programming problems on Cod
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,netbeans,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,npm" />
 </p>
