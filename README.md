@@ -2,35 +2,15 @@
 
 <img align="right" width="300px" alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me
 
-🎓 I'm a **Systems Engineering** student at **Universidad Francisco de Paula Santander (UFPS)**, Colombia.
+I'm a **Systems Engineering** student from Colombia 🇨🇴, passionate about **Full Stack Development**, **Competitive Programming**, and **Artificial Intelligence**. I enjoy building useful software, learning new technologies, and solving challenging problems.
 
-💻 I'm passionate about software development, competitive programming, and building useful applications that solve real-world problems.
-
-🚀 Currently, I'm working on:
-- A web-based inventory management system.
-- Research on applying **Artificial Intelligence** to automate systematic literature reviews.
-- Improving my competitive programming skills on **Codeforces**.
-
-### 🌱 Currently learning
-- Next.js
-- React
-- Django & Django REST Framework
-- Cloud Computing (Google Cloud Platform)
-
-### 🎯 Interests
-- Full Stack Development
-- Competitive Programming
-- Cloud Computing
-- Open Source
-
-### 🤝 I'm open to
-- Collaborating on Open Source projects.
-- Learning new technologies.
-- Building innovative software.
-
-📫 **Reach me at:** andresfelipemope@ufps.edu.co
+- 🌱 Currently learning **Cloud Computing**, **Software Architecture**, and **AI**.
+- 💻 Interested in **Web Development**, **Backend Development**, and **Open Source**.
+- 🏆 Competitive programmer on **Codeforces**.
+- 🎵 Outside tech, I enjoy listening to music, playing video games, and exploring new technologies.
+- 📫 Reach me at: **andresfelipemope@ufps.edu.co**
 
 ### 💻 Tech Stack
 
