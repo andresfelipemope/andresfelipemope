@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi there 👋, I'm Andrés Monsalve.
 
-<!--
-**andresfelipemope/andresfelipemope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="300px" alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a **Systems Engineering** student at **Universidad Francisco de Paula Santander (UFPS)**, Colombia.
+
+💻 I'm passionate about software development, competitive programming, and building useful applications that solve real-world problems.
+
+🚀 Currently, I'm working on:
+- A web-based inventory management system.
+- Research on applying **Artificial Intelligence** to automate systematic literature reviews.
+- Improving my competitive programming skills on **Codeforces**.
+
+### 🌱 Currently learning
+- Next.js
+- React
+- Django & Django REST Framework
+- Cloud Computing (Google Cloud Platform)
+
+### 🎯 Interests
+- Full Stack Development
+- Artificial Intelligence
+- Competitive Programming
+- Cloud Computing
+- Open Source
+
+### 🤝 I'm open to
+- Collaborating on Open Source projects.
+- Learning new technologies.
+- Building innovative software.
+
+### ⚡ Fun fact
+When I'm not coding, you'll probably find me solving programming problems on Codeforces or exploring new technologies.
+
+📫 **Reach me at:** andresfelipemope@ufps.edu.co
+
+### 💻 Tech Stack
+
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,bash" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
+</p>
+
+## ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,vercel" />
+</p>
+
+## 🖥️ Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,linux,windows" />
+</p>
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,netbeans,npm" />
+</p>
