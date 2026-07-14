@@ -75,3 +75,7 @@ I'm a **Systems Engineering** student from Colombia 🇨🇴, passionate about *
 <a href="https://www.instagram.com/andres.monsalve_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
