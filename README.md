@@ -72,6 +72,6 @@ I'm a **Systems Engineering** student from Colombia 🇨🇴, passionate about *
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<a href="https://instagram.com/TU_USUARIO](https://www.instagram.com/andres.monsalve_/">
+<a href="https://www.instagram.com/andres.monsalve_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
