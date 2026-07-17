@@ -15,7 +15,7 @@ I'm a **Systems Engineering** student from Colombia 🇨🇴, passionate about *
 ### 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,bash" />
 </p>
 
 🎨 Frontend
